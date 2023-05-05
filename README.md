@@ -1,8 +1,8 @@
 ### HEY! Me chamo Natália Braga 👋
 
 - 🔭 Hoje em dia trabalho como Desenvolvedora FullStack na [Port Louis](https://www.portdata.tech/)
-- 🌱 Monitora FullStack na https://cubos.academy/
-- 📫 Contate-me no linkedin: www.linkedin.com/in/natalia-r-braga
+- 🌱 Monitora FullStack na [Cubos Academy](https://cubos.academy/)
+- 📫 Contate-me no [Linkedin](www.linkedin.com/in/natalia-r-braga)
 
 <div align="center">
   <a href="https://github.com/Nahrbraga">
