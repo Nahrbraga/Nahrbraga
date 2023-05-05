@@ -1,6 +1,6 @@
 ### HEY! Me chamo Natália Braga 👋
 
-- 🔭 Hoje em dia trabalho como Desenvolvedora FullStack na Port Louis
+- 🔭 Hoje em dia trabalho como Desenvolvedora FullStack na [Port Louis](https://www.portdata.tech/)
 - 🌱 Estudando TypeScript
 - 📫 Contate-me no linkedin: www.linkedin.com/in/natalia-r-braga
 
